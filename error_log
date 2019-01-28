@@ -1,0 +1,435 @@
+[29-Jun-2016 05:24:36 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[29-Jun-2016 05:29:14 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[29-Jun-2016 05:29:53 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[29-Jun-2016 05:34:10 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[29-Jun-2016 05:34:35 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[29-Jun-2016 05:35:26 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 4
+[29-Jun-2016 05:35:27 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 4
+[29-Jun-2016 05:57:39 UTC] PHP Fatal error:  Call to undefined function size_barcode() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 22
+[29-Jun-2016 06:14:16 UTC] PHP Fatal error:  Call to undefined function size_barcode() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 21
+[29-Jun-2016 06:23:15 UTC] PHP Fatal error:  Call to undefined function size() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 19
+[29-Jun-2016 06:35:07 UTC] PHP Fatal error:  Call to undefined function size() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 16
+[29-Jun-2016 06:36:29 UTC] PHP Fatal error:  Call to undefined function size() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 17
+[29-Jun-2016 06:37:26 UTC] PHP Fatal error:  Call to undefined function color_barcode() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 18
+[29-Jun-2016 06:44:44 UTC] PHP Fatal error:  Call to undefined function size_barcode() in /home/innowrapcp/public_html/clients/red_lifestyle/scan_barcode.php on line 17
+[30-Jun-2016 11:36:20 UTC] PHP Fatal error:  Call to undefined function calculate_amount() in /home/innowrapcp/public_html/clients/red_lifestyle/order.php on line 17
+[01-Jul-2016 05:21:20 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:22:44 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:26:24 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:27:40 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:28:31 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:30:19 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 05:34:34 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 08:52:17 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 08:56:11 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 08:57:24 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[01-Jul-2016 09:02:37 UTC] PHP Fatal error:  Function name must be a string in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[05-Jul-2016 06:02:50 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 4
+[06-Jul-2016 05:00:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 21
+[06-Jul-2016 05:01:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 21
+[06-Jul-2016 05:01:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 21
+[06-Jul-2016 05:01:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 21
+[06-Jul-2016 05:16:04 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/innowrapcp/public_html/clients/red_lifestyle/add_from_color_to_cart.php on line 26
+[07-Jul-2016 10:52:30 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[07-Jul-2016 10:52:48 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[07-Jul-2016 11:03:36 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 3
+[07-Jul-2016 11:05:05 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 10
+[07-Jul-2016 11:06:06 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 10
+[07-Jul-2016 12:48:12 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 24
+[07-Jul-2016 12:49:31 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 24
+[08-Jul-2016 11:42:31 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 95
+[08-Jul-2016 11:42:31 UTC] PHP Notice:  Undefined variable: output in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 658
+[08-Jul-2016 11:43:43 UTC] PHP Notice:  Undefined variable: salesman_id in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 644
+[08-Jul-2016 11:43:43 UTC] PHP Notice:  Undefined variable: output in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 657
+[08-Jul-2016 11:45:06 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 11:45:53 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 11:47:44 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 11:49:28 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 11:51:17 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 11:55:01 UTC] PHP Notice:  Undefined variable: list in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 458
+[08-Jul-2016 11:55:18 UTC] PHP Notice:  Undefined variable: list in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 458
+[08-Jul-2016 11:56:49 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 483
+[08-Jul-2016 11:56:49 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 470
+[08-Jul-2016 11:56:49 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 474
+[08-Jul-2016 11:58:55 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 483
+[08-Jul-2016 11:58:55 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 470
+[08-Jul-2016 11:58:55 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 474
+[08-Jul-2016 12:01:07 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 484
+[08-Jul-2016 12:03:22 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 484
+[08-Jul-2016 12:05:44 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 471
+[08-Jul-2016 12:05:44 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 475
+[08-Jul-2016 12:15:12 UTC] PHP Notice:  Undefined variable: row in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 437
+[08-Jul-2016 12:15:12 UTC] PHP Notice:  Undefined variable: row in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 437
+[08-Jul-2016 12:15:12 UTC] PHP Notice:  Undefined variable: row in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 437
+[08-Jul-2016 12:15:12 UTC] PHP Notice:  Undefined variable: row in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 437
+[08-Jul-2016 12:16:33 UTC] PHP Notice:  Undefined index: prouct_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 440
+[08-Jul-2016 12:19:41 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 58
+[08-Jul-2016 13:09:40 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 527
+[08-Jul-2016 13:09:52 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 527
+[08-Jul-2016 13:24:38 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 527
+[08-Jul-2016 13:35:04 UTC] PHP Notice:  Undefined index: prouct_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 488
+[08-Jul-2016 13:50:05 UTC] PHP Notice:  Undefined index: prouct_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 451
+[08-Jul-2016 13:50:05 UTC] PHP Notice:  Undefined index: prouct_sku in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 471
+[09-Jul-2016 04:53:25 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 04:53:25 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 119
+[09-Jul-2016 04:53:25 UTC] PHP Notice:  Undefined variable: order in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 123
+[09-Jul-2016 04:53:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 123
+[09-Jul-2016 04:53:25 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 137
+[09-Jul-2016 04:56:37 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 04:56:37 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 119
+[09-Jul-2016 04:58:19 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 04:58:19 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 118
+[09-Jul-2016 04:59:54 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 04:59:54 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 119
+[09-Jul-2016 05:01:19 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 05:01:19 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 119
+[09-Jul-2016 05:03:11 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 05:03:11 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 117
+[09-Jul-2016 05:04:25 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 05:04:25 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 117
+[09-Jul-2016 05:29:54 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 117
+[09-Jul-2016 05:37:47 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 117
+[09-Jul-2016 05:42:12 UTC] PHP Notice:  Undefined variable: num_month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 117
+[09-Jul-2016 06:03:14 UTC] PHP Notice:  Undefined index: month in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 22
+[09-Jul-2016 06:15:15 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[09-Jul-2016 06:15:27 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[09-Jul-2016 06:15:28 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[09-Jul-2016 06:15:29 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[09-Jul-2016 06:40:16 UTC] PHP Fatal error:  Call to undefined function encode_json() in /home/innowrapcp/public_html/clients/red_lifestyle/order.php on line 50
+[09-Jul-2016 06:41:23 UTC] PHP Fatal error:  Call to undefined function encode_json() in /home/innowrapcp/public_html/clients/red_lifestyle/order.php on line 50
+[09-Jul-2016 07:35:17 UTC] PHP Notice:  Undefined index: product_price in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 51
+[09-Jul-2016 07:35:22 UTC] PHP Notice:  Undefined index: product_price in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 51
+[09-Jul-2016 08:55:25 UTC] PHP Notice:  Undefined index: product_price in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 51
+[09-Jul-2016 08:55:29 UTC] PHP Notice:  Undefined index: product_price in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 51
+[09-Jul-2016 09:15:00 UTC] PHP Notice:  Undefined index: product_price in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 51
+[09-Jul-2016 09:38:42 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[09-Jul-2016 09:38:48 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[09-Jul-2016 10:09:28 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[09-Jul-2016 10:09:33 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[10-Jul-2016 07:58:34 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[11-Jul-2016 04:53:44 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[11-Jul-2016 05:14:01 UTC] PHP Notice:  Undefined variable: output1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 142
+[11-Jul-2016 06:35:56 UTC] PHP Notice:  Undefined variable: output2 in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 266
+[11-Jul-2016 07:08:03 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[11-Jul-2016 07:08:09 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[11-Jul-2016 09:11:07 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[11-Jul-2016 09:29:20 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 4
+[11-Jul-2016 09:30:44 UTC] PHP Fatal error:  Call to undefined function getRealEscape() in /home/innowrapcp/public_html/clients/red_lifestyle/test.php on line 3
+[11-Jul-2016 10:37:52 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 25
+[11-Jul-2016 10:38:00 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 25
+[11-Jul-2016 10:38:08 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 25
+[11-Jul-2016 10:42:37 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 25
+[11-Jul-2016 10:45:07 UTC] PHP Fatal error:  Call to undefined function show_month_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 25
+[11-Jul-2016 10:51:47 UTC] PHP Fatal error:  Call to undefined function show_name_status() in /home/innowrapcp/public_html/clients/red_lifestyle/show_status_report.php on line 40
+[12-Jul-2016 12:19:31 UTC] PHP Notice:  Undefined index: action in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 4
+[12-Jul-2016 13:17:05 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:18:26 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:24:17 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:26:28 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:26:39 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:26:41 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:37:02 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[12-Jul-2016 13:43:21 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[13-Jul-2016 06:27:02 UTC] PHP Notice:  Undefined index: barcode in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 64
+[13-Jul-2016 06:29:57 UTC] PHP Notice:  Undefined index: barcode in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 64
+[13-Jul-2016 06:30:25 UTC] PHP Notice:  Undefined index: barcode in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 64
+[13-Jul-2016 06:38:13 UTC] PHP Notice:  Undefined index: barcode in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 64
+[13-Jul-2016 06:43:02 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[13-Jul-2016 06:43:02 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/index.php on line 237
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 4 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 5 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 45
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: conn in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 47
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 63
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 73
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 79
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 4 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 5 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 45
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: conn in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 47
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 63
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 73
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 79
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 4 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 5 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 45
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: conn in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 47
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 63
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 73
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 79
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 4 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 5 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 45
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: conn in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 47
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 63
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 73
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 79
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 4 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Missing argument 5 for show_price(), called in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 22 and defined in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 43
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: product_sku in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 45
+[13-Jul-2016 10:44:23 UTC] PHP Notice:  Undefined variable: conn in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 46
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 47
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 63
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 73
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 79
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:44:23 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:46:44 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 125
+[13-Jul-2016 10:46:44 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 125
+[13-Jul-2016 10:46:44 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 125
+[13-Jul-2016 10:46:44 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 125
+[13-Jul-2016 10:48:49 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 126
+[13-Jul-2016 10:48:49 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 126
+[13-Jul-2016 10:48:49 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 126
+[13-Jul-2016 10:48:49 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 126
+[13-Jul-2016 10:54:03 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:54:03 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:54:03 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:54:03 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:55:25 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 4
+[13-Jul-2016 10:55:25 UTC] PHP Notice:  Undefined index: email in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 5
+[13-Jul-2016 10:55:25 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 30
+[13-Jul-2016 10:56:01 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:56:01 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:56:01 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:56:01 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 127
+[13-Jul-2016 10:59:21 UTC] PHP Notice:  Undefined index: userid in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 4
+[13-Jul-2016 10:59:21 UTC] PHP Notice:  Undefined index: email in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 5
+[13-Jul-2016 11:00:00 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:00 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:00 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:00 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:20 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:20 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:20 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:00:20 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 128
+[13-Jul-2016 11:02:29 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:02:29 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:02:29 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:02:29 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:28 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:28 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:28 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:28 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:30 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:30 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:30 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:30 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:31 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:31 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:31 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:31 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:32 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:32 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:32 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:04:32 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:26:23 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:26:23 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:26:23 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:26:23 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 129
+[13-Jul-2016 11:27:42 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 130
+[13-Jul-2016 11:27:42 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 130
+[13-Jul-2016 11:27:42 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 130
+[13-Jul-2016 11:27:42 UTC] PHP Notice:  Undefined variable: discount in /home/innowrapcp/public_html/clients/red_lifestyle/show_kit_after_discount.php on line 130
+[23-Jul-2016 08:17:49 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 23
+[23-Jul-2016 08:18:01 UTC] PHP Fatal error:  Call to undefined function explodeX() in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 23
+[23-Jul-2016 08:19:20 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 23
+[23-Jul-2016 08:20:20 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:20:45 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:20:46 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:24:25 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:24:25 UTC] PHP Notice:  Use of undefined constant array2 - assumed 'array2' in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 25
+[23-Jul-2016 08:24:49 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:24:50 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:24:51 UTC] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:42:17 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 24
+[23-Jul-2016 08:42:17 UTC] PHP Notice:  Use of undefined constant temp2 - assumed 'temp2' in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 25
+[23-Jul-2016 08:47:01 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:47:01 UTC] PHP Notice:  Use of undefined constant temp2 - assumed 'temp2' in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 30
+[23-Jul-2016 08:47:28 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:47:29 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:47:45 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:47:46 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:48:26 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 29
+[23-Jul-2016 08:57:54 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 30
+[23-Jul-2016 09:01:45 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:02:06 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:02:24 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:02:34 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:02:56 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:03:37 UTC] PHP Notice:  Undefined variable: array1 in /home/innowrapcp/public_html/clients/red_lifestyle/getDiscount.php on line 18
+[23-Jul-2016 09:10:25 UTC] PHP Fatal error:  Call to undefined function edit_user() in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 7
+[25-Jul-2016 11:06:48 UTC] PHP Notice:  Undefined variable: saleman_id in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 6
+[25-Jul-2016 11:06:48 UTC] PHP Notice:  Undefined variable: element in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 41
+[25-Jul-2016 11:08:13 UTC] PHP Notice:  Undefined index: product_category_id in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 30
+[25-Jul-2016 11:08:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 36
+[25-Jul-2016 11:08:13 UTC] PHP Notice:  Undefined index: product_category_id in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 30
+[25-Jul-2016 11:08:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 36
+[25-Jul-2016 11:08:13 UTC] PHP Notice:  Undefined index: product_category_id in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 30
+[25-Jul-2016 11:08:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 36
+[25-Jul-2016 11:08:13 UTC] PHP Notice:  Undefined index: product_category_id in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 30
+[25-Jul-2016 11:08:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 36
+[25-Jul-2016 11:44:49 UTC] PHP Warning:  Illegal string offset 'product_category_name' in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 37
+[25-Jul-2016 11:44:49 UTC] PHP Warning:  Illegal string offset 'product_category_name' in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 37
+[25-Jul-2016 11:44:49 UTC] PHP Warning:  Illegal string offset 'product_category_name' in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 37
+[25-Jul-2016 11:44:49 UTC] PHP Warning:  Illegal string offset 'product_category_name' in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 37
+[26-Jul-2016 05:22:09 UTC] PHP Fatal error:  Call to undefined function mysql_fetch_query() in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 12
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 18
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Undefined variable: saleman_id in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 18
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:25:49 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 18
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 29
+[26-Jul-2016 05:26:18 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 19
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:27:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 19
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:29:33 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 19
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:30:12 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Undefined variable: data1 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 19
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:19 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:32:41 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:33:34 UTC] PHP Notice:  Array to string conversion in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 32
+[26-Jul-2016 05:37:17 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 19
+[26-Jul-2016 05:38:59 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 21
+[26-Jul-2016 05:57:41 UTC] PHP Warning:  mysql() expects parameter 2 to be string, resource given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 30
+[26-Jul-2016 05:57:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 31
+[26-Jul-2016 05:57:41 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 36
+[26-Jul-2016 06:11:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 61
+[26-Jul-2016 06:11:04 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 66
+[26-Jul-2016 06:12:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 60
+[26-Jul-2016 06:12:30 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 65
+[26-Jul-2016 06:13:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 60
+[26-Jul-2016 06:13:15 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 65
+[26-Jul-2016 06:14:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 60
+[26-Jul-2016 06:17:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 61
+[26-Jul-2016 06:17:48 UTC] PHP Notice:  Undefined variable: data in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 66
+[26-Jul-2016 07:10:03 UTC] PHP Notice:  Undefined variable: row5 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 175
+[26-Jul-2016 07:10:03 UTC] PHP Notice:  Undefined variable: row5 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 175
+[26-Jul-2016 07:10:03 UTC] PHP Notice:  Undefined variable: row5 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 175
+[26-Jul-2016 07:10:03 UTC] PHP Notice:  Undefined variable: row5 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 175
+[26-Jul-2016 07:10:03 UTC] PHP Notice:  Undefined variable: row5 in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 175
+[26-Jul-2016 07:27:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, array given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 212
+[26-Jul-2016 07:27:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 213
+[26-Jul-2016 07:27:38 UTC] PHP Notice:  Undefined variable: name_categories in /home/innowrapcp/public_html/clients/red_lifestyle/show_filter_input.php on line 217
+[29-Jul-2016 11:44:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 105
+[29-Jul-2016 11:44:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 108
+[29-Jul-2016 11:45:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 105
+[29-Jul-2016 11:45:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/innowrapcp/public_html/clients/red_lifestyle/filter.php on line 109
